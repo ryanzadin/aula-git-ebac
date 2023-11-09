@@ -1,0 +1,12 @@
+Dados do aluno
+
+-Primeiro Nome: Ryan
+-Profissão: Ajudante de Producao
+-Cidade: Sao paulo
+-O que faz nas horas vaga: Jogo no PC, Estudo e Jogo Volei
+-Feedback sobre o curso Qualidade de Software: Estou gostando apesar de algumas vezes me confundir na hora de resolver os execicios é sim um curso bom.
+-Feedback sobre a plataforma de estudo da EBAC: Plataforma muito bem construida, facil de entender, alem de bem intuitiva e dinamica.
+
+Obrigado!!!-
+
+
